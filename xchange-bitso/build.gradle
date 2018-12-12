@@ -1,0 +1,5 @@
+
+description = 'XChange Bitso'
+dependencies {
+  compile project(':xchange-core')
+}

@@ -1,0 +1,5 @@
+
+description = 'XChange Bitcoin.de'
+dependencies {
+  compile project(':xchange-core')
+}

@@ -1,0 +1,178 @@
+rootProject.name = 'xchange-parent'
+include ':xchange-abucoins'
+include ':xchange-acx'
+include ':xchange-anx'
+include ':xchange-bibox'
+include ':xchange-binance'
+include ':xchange-bitbay'
+include ':xchange-bitcoinaverage'
+include ':xchange-bitcoincharts'
+include ':xchange-bitcoincore'
+include ':xchange-bitcoinde'
+include ':xchange-bitcoinium'
+include ':xchange-bitcointoyou'
+include ':xchange-bitfinex'
+include ':xchange-bitflyer'
+include ':xchange-bitmarket'
+include ':xchange-bitmex'
+include ':xchange-bitso'
+include ':xchange-bitstamp'
+include ':xchange-bittrex'
+include ':xchange-bity'
+include ':xchange-bitz'
+include ':xchange-bl3p'
+include ':xchange-bleutrade'
+include ':xchange-blockchain'
+include ':xchange-btcc'
+include ':xchange-btcmarkets'
+include ':xchange-btctrade'
+include ':xchange-btcturk'
+include ':xchange-bx'
+include ':xchange-campbx'
+include ':xchange-ccex'
+include ':xchange-cexio'
+include ':xchange-cobinhood'
+include ':xchange-coinbase'
+include ':xchange-coinbasepro'
+include ':xchange-coindirect'
+include ':xchange-coinbene'
+include ':xchange-coinegg'
+include ':xchange-coinone'
+include ':xchange-coinfloor'
+include ':xchange-coingi'
+include ':xchange-coinmarketcap'
+include ':xchange-coinmate'
+include ':xchange-core'
+include ':xchange-cryptofacilities'
+include ':xchange-cryptonit'
+include ':xchange-cryptopia'
+include ':xchange-coinsuper'
+include ':xchange-dsx'
+include ':xchange-dragonex'
+include ':xchange-exmo'
+include ':xchange-exx'
+include ':xchange-examples'
+include ':xchange-fcoin'
+include ':xchange-gatecoin'
+include ':xchange-gateio'
+include ':xchange-gemini'
+include ':xchange-hitbtc'
+include ':xchange-huobi'
+include ':xchange-idex'
+include ':xchange-independentreserve'
+include ':xchange-itbit'
+include ':xchange-koineks'
+include ':xchange-koinim'
+include ':xchange-kraken'
+include ':xchange-kucoin'
+include ':xchange-kuna'
+include ':xchange-lakebtc'
+include ':xchange-liqui'
+include ':xchange-livecoin'
+include ':xchange-luno'
+include ':xchange-mercadobitcoin'
+include ':xchange-okcoin'
+include ':xchange-openexchangerates'
+include ':xchange-paribu'
+include ':xchange-paymium'
+include ':xchange-poloniex'
+include ':xchange-quadrigacx'
+include ':xchange-quoine'
+include ':xchange-ripple'
+include ':xchange-therock'
+include ':xchange-truefx'
+include ':xchange-upbit'
+include ':xchange-vaultoro'
+include ':xchange-vircurex'
+include ':xchange-wex'
+include ':xchange-yobit'
+include ':xchange-zaif'
+
+project(':xchange-abucoins').projectDir = "$rootDir/xchange-abucoins" as File
+project(':xchange-acx').projectDir = "$rootDir/xchange-acx" as File
+project(':xchange-anx').projectDir = "$rootDir/xchange-anx" as File
+project(':xchange-bibox').projectDir = "$rootDir/xchange-bibox" as File
+project(':xchange-binance').projectDir = "$rootDir/xchange-binance" as File
+project(':xchange-bitbay').projectDir = "$rootDir/xchange-bitbay" as File
+project(':xchange-bitcoinaverage').projectDir = "$rootDir/xchange-bitcoinaverage" as File
+project(':xchange-bitcoincharts').projectDir = "$rootDir/xchange-bitcoincharts" as File
+project(':xchange-bitcoincore').projectDir = "$rootDir/xchange-bitcoincore" as File
+project(':xchange-bitcoinde').projectDir = "$rootDir/xchange-bitcoinde" as File
+project(':xchange-bitcoinium').projectDir = "$rootDir/xchange-bitcoinium" as File
+project(':xchange-bitcointoyou').projectDir = "$rootDir/xchange-bitcointoyou" as File
+project(':xchange-bitfinex').projectDir = "$rootDir/xchange-bitfinex" as File
+project(':xchange-bitflyer').projectDir = "$rootDir/xchange-bitflyer" as File
+project(':xchange-bitmarket').projectDir = "$rootDir/xchange-bitmarket" as File
+project(':xchange-bitmex').projectDir = "$rootDir/xchange-bitmex" as File
+project(':xchange-bitso').projectDir = "$rootDir/xchange-bitso" as File
+project(':xchange-bitstamp').projectDir = "$rootDir/xchange-bitstamp" as File
+project(':xchange-bittrex').projectDir = "$rootDir/xchange-bittrex" as File
+project(':xchange-bity').projectDir = "$rootDir/xchange-bity" as File
+project(':xchange-bitz').projectDir = "$rootDir/xchange-bitz" as File
+project(':xchange-bl3p').projectDir = "$rootDir/xchange-bl3p" as File
+project(':xchange-bleutrade').projectDir = "$rootDir/xchange-bleutrade" as File
+project(':xchange-blockchain').projectDir = "$rootDir/xchange-blockchain" as File
+project(':xchange-btcc').projectDir = "$rootDir/xchange-btcc" as File
+project(':xchange-btcmarkets').projectDir = "$rootDir/xchange-btcmarkets" as File
+project(':xchange-btctrade').projectDir = "$rootDir/xchange-btctrade" as File
+project(':xchange-btcturk').projectDir = "$rootDir/xchange-btcturk" as File
+project(':xchange-bx').projectDir = "$rootDir/xchange-bx" as File
+project(':xchange-campbx').projectDir = "$rootDir/xchange-campbx" as File
+project(':xchange-ccex').projectDir = "$rootDir/xchange-ccex" as File
+project(':xchange-cexio').projectDir = "$rootDir/xchange-cexio" as File
+project(':xchange-cobinhood').projectDir = "$rootDir/xchange-cobinhood" as File
+project(':xchange-coinbase').projectDir = "$rootDir/xchange-coinbase" as File
+project(':xchange-coinbasepro').projectDir = "$rootDir/xchange-coinbasepro" as File
+project(':xchange-coindirect').projectDir = "$rootDir/xchange-coindirect" as File
+project(':xchange-coinbene').projectDir = "$rootDir/xchange-coinbene" as File
+project(':xchange-coinegg').projectDir = "$rootDir/xchange-coinegg" as File
+project(':xchange-coinone').projectDir = "$rootDir/xchange-coinone" as File
+project(':xchange-coinfloor').projectDir = "$rootDir/xchange-coinfloor" as File
+project(':xchange-coingi').projectDir = "$rootDir/xchange-coingi" as File
+project(':xchange-coinmarketcap').projectDir = "$rootDir/xchange-coinmarketcap" as File
+project(':xchange-coinmate').projectDir = "$rootDir/xchange-coinmate" as File
+project(':xchange-core').projectDir = "$rootDir/xchange-core" as File
+project(':xchange-cryptofacilities').projectDir = "$rootDir/xchange-cryptofacilities" as File
+project(':xchange-cryptonit').projectDir = "$rootDir/xchange-cryptonit" as File
+project(':xchange-cryptopia').projectDir = "$rootDir/xchange-cryptopia" as File
+project(':xchange-coinsuper').projectDir = "$rootDir/xchange-coinsuper" as File
+project(':xchange-dsx').projectDir = "$rootDir/xchange-dsx" as File
+project(':xchange-dragonex').projectDir = "$rootDir/xchange-dragonex" as File
+project(':xchange-exmo').projectDir = "$rootDir/xchange-exmo" as File
+project(':xchange-exx').projectDir = "$rootDir/xchange-exx" as File
+project(':xchange-examples').projectDir = "$rootDir/xchange-examples" as File
+project(':xchange-fcoin').projectDir = "$rootDir/xchange-fcoin" as File
+project(':xchange-gatecoin').projectDir = "$rootDir/xchange-gatecoin" as File
+project(':xchange-gateio').projectDir = "$rootDir/xchange-gateio" as File
+project(':xchange-gemini').projectDir = "$rootDir/xchange-gemini" as File
+project(':xchange-hitbtc').projectDir = "$rootDir/xchange-hitbtc" as File
+project(':xchange-huobi').projectDir = "$rootDir/xchange-huobi" as File
+project(':xchange-idex').projectDir = "$rootDir/xchange-idex" as File
+project(':xchange-independentreserve').projectDir = "$rootDir/xchange-independentreserve" as File
+project(':xchange-itbit').projectDir = "$rootDir/xchange-itbit" as File
+project(':xchange-koineks').projectDir = "$rootDir/xchange-koineks" as File
+project(':xchange-koinim').projectDir = "$rootDir/xchange-koinim" as File
+project(':xchange-kraken').projectDir = "$rootDir/xchange-kraken" as File
+project(':xchange-kucoin').projectDir = "$rootDir/xchange-kucoin" as File
+project(':xchange-kuna').projectDir = "$rootDir/xchange-kuna" as File
+project(':xchange-lakebtc').projectDir = "$rootDir/xchange-lakebtc" as File
+project(':xchange-liqui').projectDir = "$rootDir/xchange-liqui" as File
+project(':xchange-livecoin').projectDir = "$rootDir/xchange-livecoin" as File
+project(':xchange-luno').projectDir = "$rootDir/xchange-luno" as File
+project(':xchange-mercadobitcoin').projectDir = "$rootDir/xchange-mercadobitcoin" as File
+project(':xchange-okcoin').projectDir = "$rootDir/xchange-okcoin" as File
+project(':xchange-openexchangerates').projectDir = "$rootDir/xchange-openexchangerates" as File
+project(':xchange-paribu').projectDir = "$rootDir/xchange-paribu" as File
+project(':xchange-paymium').projectDir = "$rootDir/xchange-paymium" as File
+project(':xchange-poloniex').projectDir = "$rootDir/xchange-poloniex" as File
+project(':xchange-quadrigacx').projectDir = "$rootDir/xchange-quadrigacx" as File
+project(':xchange-quoine').projectDir = "$rootDir/xchange-quoine" as File
+project(':xchange-ripple').projectDir = "$rootDir/xchange-ripple" as File
+project(':xchange-therock').projectDir = "$rootDir/xchange-therock" as File
+project(':xchange-truefx').projectDir = "$rootDir/xchange-truefx" as File
+project(':xchange-upbit').projectDir = "$rootDir/xchange-upbit" as File
+project(':xchange-vaultoro').projectDir = "$rootDir/xchange-vaultoro" as File
+project(':xchange-vircurex').projectDir = "$rootDir/xchange-vircurex" as File
+project(':xchange-wex').projectDir = "$rootDir/xchange-wex" as File
+project(':xchange-yobit').projectDir = "$rootDir/xchange-yobit" as File
+project(':xchange-zaif').projectDir = "$rootDir/xchange-zaif" as File

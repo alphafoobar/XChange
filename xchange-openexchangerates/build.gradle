@@ -1,0 +1,7 @@
+
+description = 'XChange Open Exchange Rates'
+dependencies {
+  compile project(':xchange-core')
+    testCompile group: 'org.powermock', name: 'powermock-api-mockito2', version:'2.0.0-RC.1'
+    testCompile group: 'org.powermock', name: 'powermock-reflect', version:'2.0.0-RC.1'
+}

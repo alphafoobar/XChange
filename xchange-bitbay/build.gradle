@@ -1,0 +1,5 @@
+
+description = 'XChange Bitbay'
+dependencies {
+  compile project(':xchange-core')
+}

@@ -1,0 +1,5 @@
+
+description = 'XChange CoinOne'
+dependencies {
+  compile project(':xchange-core')
+}

@@ -1,0 +1,5 @@
+
+description = 'XChange Mercado Bitcoin'
+dependencies {
+  compile project(':xchange-core')
+}

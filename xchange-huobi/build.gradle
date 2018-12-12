@@ -1,0 +1,5 @@
+
+description = 'XChange Huobi'
+dependencies {
+  compile project(':xchange-core')
+}

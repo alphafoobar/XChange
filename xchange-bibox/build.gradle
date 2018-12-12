@@ -1,0 +1,5 @@
+
+description = 'XChange Bibox'
+dependencies {
+  compile project(':xchange-core')
+}

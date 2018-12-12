@@ -1,0 +1,5 @@
+
+description = 'XChange BX.IN.TH'
+dependencies {
+  compile project(':xchange-core')
+}

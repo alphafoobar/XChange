@@ -1,0 +1,5 @@
+
+description = 'XChange Cryptonit'
+dependencies {
+  compile project(':xchange-core')
+}

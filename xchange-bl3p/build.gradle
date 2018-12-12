@@ -1,0 +1,5 @@
+
+description = 'XChange Bl3p'
+dependencies {
+  compile project(':xchange-core')
+}

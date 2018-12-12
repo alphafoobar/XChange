@@ -1,0 +1,5 @@
+
+description = 'XChange Paribu'
+dependencies {
+  compile project(':xchange-core')
+}

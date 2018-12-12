@@ -1,0 +1,5 @@
+
+description = 'XChange Bity'
+dependencies {
+  compile project(':xchange-core')
+}

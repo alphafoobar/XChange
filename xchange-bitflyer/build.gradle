@@ -1,0 +1,5 @@
+
+description = 'XChange BitFlyer'
+dependencies {
+  compile project(':xchange-core')
+}

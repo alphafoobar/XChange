@@ -1,0 +1,6 @@
+
+description = 'XChange FCoin'
+dependencies {
+  compile project(':xchange-core')
+    compile group: 'com.google.guava', name: 'guava', version:'19.0'
+}

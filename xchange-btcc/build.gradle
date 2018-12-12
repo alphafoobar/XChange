@@ -1,0 +1,5 @@
+
+description = 'XChange BTCC'
+dependencies {
+  compile project(':xchange-core')
+}

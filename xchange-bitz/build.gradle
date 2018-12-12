@@ -1,0 +1,5 @@
+
+description = 'XChange Bitz'
+dependencies {
+  compile project(':xchange-core')
+}

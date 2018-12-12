@@ -1,0 +1,6 @@
+
+description = 'XChange Bleutrade'
+dependencies {
+  compile project(':xchange-core')
+    testCompile group: 'org.mockito', name: 'mockito-core', version:'2.20.1'
+}

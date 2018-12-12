@@ -1,0 +1,6 @@
+
+description = 'XChange Bitcoin Core'
+dependencies {
+  compile project(':xchange-core')
+    compile group: 'com.fasterxml.jackson.dataformat', name: 'jackson-dataformat-csv', version:'2.9.6'
+}

@@ -1,0 +1,5 @@
+
+description = 'XChange Luno'
+dependencies {
+  compile project(':xchange-core')
+}

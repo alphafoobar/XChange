@@ -1,0 +1,5 @@
+
+description = 'XChange Independent Reserve'
+dependencies {
+  compile project(':xchange-core')
+}

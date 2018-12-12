@@ -1,0 +1,5 @@
+
+description = 'XChange Kraken'
+dependencies {
+  compile project(':xchange-core')
+}

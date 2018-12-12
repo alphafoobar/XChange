@@ -1,0 +1,5 @@
+
+description = 'XChange CampBX'
+dependencies {
+  compile project(':xchange-core')
+}

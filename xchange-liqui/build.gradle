@@ -1,0 +1,5 @@
+
+description = 'XChange Liqui'
+dependencies {
+  compile project(':xchange-core')
+}

@@ -1,0 +1,5 @@
+
+description = 'XChange Paymium'
+dependencies {
+  compile project(':xchange-core')
+}

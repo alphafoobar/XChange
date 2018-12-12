@@ -1,0 +1,5 @@
+
+description = 'XChange Abucoins'
+dependencies {
+  compile project(':xchange-core')
+}

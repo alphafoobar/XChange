@@ -1,0 +1,6 @@
+
+description = 'XChange Quoine'
+dependencies {
+  compile project(':xchange-core')
+    compile group: 'com.auth0', name: 'java-jwt', version:'3.4.0'
+}

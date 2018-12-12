@@ -1,0 +1,5 @@
+
+description = 'XChange The Rock Trading'
+dependencies {
+  compile project(':xchange-core')
+}

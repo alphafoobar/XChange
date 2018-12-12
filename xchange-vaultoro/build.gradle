@@ -1,0 +1,5 @@
+
+description = 'XChange Vaultoro'
+dependencies {
+  compile project(':xchange-core')
+}

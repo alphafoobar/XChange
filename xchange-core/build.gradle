@@ -1,0 +1,9 @@
+
+description = 'XChange Core'
+dependencies {
+    compile(group: 'com.github.mmazi', name: 'rescu', version:'2.0.2') {
+exclude(module: 'commons-codec')
+    }
+    compile group: 'commons-io', name: 'commons-io', version:'2.6'
+    compile group: 'org.apache.commons', name: 'commons-lang3', version:'3.7'
+}

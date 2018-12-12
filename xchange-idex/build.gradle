@@ -1,0 +1,6 @@
+
+description = 'XChange Idex'
+dependencies {
+  compile project(':xchange-core')
+    compile group: 'org.web3j', name: 'crypto', version:'3.5.0'
+}

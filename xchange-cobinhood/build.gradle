@@ -1,0 +1,5 @@
+
+description = 'XChange Cobinhood'
+dependencies {
+  compile project(':xchange-core')
+}

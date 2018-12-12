@@ -1,0 +1,5 @@
+
+description = 'XChange Bitcoin Charts'
+dependencies {
+  compile project(':xchange-core')
+}

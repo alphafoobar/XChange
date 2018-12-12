@@ -1,0 +1,5 @@
+
+description = 'XChange Koinim'
+dependencies {
+  compile project(':xchange-core')
+}

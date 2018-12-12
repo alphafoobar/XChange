@@ -1,0 +1,5 @@
+
+description = 'XChange BTC Turk'
+dependencies {
+  compile project(':xchange-core')
+}

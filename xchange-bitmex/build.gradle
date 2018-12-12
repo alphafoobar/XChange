@@ -1,0 +1,6 @@
+
+description = 'XChange BitMex'
+dependencies {
+  compile project(':xchange-core')
+    compile group: 'com.google.guava', name: 'guava', version:'25.1-jre'
+}

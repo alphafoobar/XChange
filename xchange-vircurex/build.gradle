@@ -1,0 +1,5 @@
+
+description = 'XChange Vircurex'
+dependencies {
+  compile project(':xchange-core')
+}

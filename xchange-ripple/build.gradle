@@ -1,0 +1,5 @@
+
+description = 'XChange Ripple'
+dependencies {
+  compile project(':xchange-core')
+}

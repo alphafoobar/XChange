@@ -1,0 +1,5 @@
+
+description = 'XChange Kucoin'
+dependencies {
+  compile project(':xchange-core')
+}

@@ -1,0 +1,6 @@
+
+description = 'XChange Livecoin'
+dependencies {
+  compile project(':xchange-core')
+    testCompile group: 'com.github.tomakehurst', name: 'wiremock', version:'2.18.0'
+}

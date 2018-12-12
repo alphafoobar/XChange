@@ -1,0 +1,5 @@
+
+description = 'XChange Cex.io'
+dependencies {
+  compile project(':xchange-core')
+}

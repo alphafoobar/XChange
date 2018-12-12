@@ -1,0 +1,5 @@
+
+description = 'XChange Poloniex'
+dependencies {
+  compile project(':xchange-core')
+}

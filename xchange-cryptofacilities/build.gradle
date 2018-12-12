@@ -1,0 +1,5 @@
+
+description = 'XChange CryptoFacilities'
+dependencies {
+  compile project(':xchange-core')
+}

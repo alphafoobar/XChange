@@ -1,0 +1,5 @@
+
+description = 'XChange Dragonex'
+dependencies {
+  compile project(':xchange-core')
+}

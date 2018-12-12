@@ -1,0 +1,5 @@
+
+description = 'XChange Kuna'
+dependencies {
+  compile project(':xchange-core')
+}

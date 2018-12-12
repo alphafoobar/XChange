@@ -1,0 +1,5 @@
+
+description = 'XChange Gate.io'
+dependencies {
+  compile project(':xchange-core')
+}

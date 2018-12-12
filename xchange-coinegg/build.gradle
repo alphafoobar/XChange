@@ -1,0 +1,5 @@
+
+description = 'XChange CoinEgg'
+dependencies {
+  compile project(':xchange-core')
+}

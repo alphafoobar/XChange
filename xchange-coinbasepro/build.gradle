@@ -1,0 +1,6 @@
+
+description = 'XChange CoinbasePro'
+dependencies {
+  compile project(':xchange-core')
+    compileOnly group: 'org.projectlombok', name: 'lombok', version:'1.18.2'
+}

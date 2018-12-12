@@ -1,0 +1,5 @@
+
+description = 'XChange OKCoin'
+dependencies {
+  compile project(':xchange-core')
+}

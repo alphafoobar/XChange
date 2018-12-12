@@ -1,0 +1,5 @@
+
+description = 'XChange Zaif'
+dependencies {
+  compile project(':xchange-core')
+}

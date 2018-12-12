@@ -1,0 +1,5 @@
+
+description = 'XChange Koineks'
+dependencies {
+  compile project(':xchange-core')
+}

@@ -1,0 +1,5 @@
+
+description = 'XChange Bitcoinium'
+dependencies {
+  compile project(':xchange-core')
+}
